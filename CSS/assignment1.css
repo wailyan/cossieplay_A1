@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+#table2 {text-align:center; font-size:30px; align-content:
+center; table-layout:fixed;
+}
+h1 {font-family:Algerian; text-align:center; text-decoration:underline; color:#F0070B; font-size:70px; 
+}
+
+
+h3 {font-size:40px; color:#F95160; text-align:left;
+}
+
+#container { font-size:50px; font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif; margine:2em; padding:2em;
+	background-color: #0E7BD4;
+}
+
+
+td {text-align:center; font-size:40px; ; table-layout:fixed; font-size:40px; border-color:#F34560;  
+}
+
+
+body {text-align:center; font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif; font-size:25px;
+}
+
+#paragraph_heading { font-size:50px; font-weight:bold; font-family:Showcard Gothic;
+}
+
+#footer {
+	align-content: center;
+	
+}
+

@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<link rel="stylesheet" type="text/css" href="../CSS/assignment1.css">
+<meta charset="utf-8">
+
+<head>
+
+<h1><a href="../index.html"><img src="../coollogo_com-1136699.png" width="788" height="314" alt=""/></a></h1>
+</head>
+<table width="100%" height="100" border="2" align="center" bordercolor="#EC3D0D" bgcolor="#53F3A6">
+  <tbody>
+    <tr>
+      <td><a href="../home.html">Home</a></td>
+      <td><a href="../About Cossieplay.html">About Cossieplay</a></td>
+      <td><a href="../Anncouncements.html">Announcement</a></td>
+      <td><a href="../partyguideline.html">Party Guidelines</a></td>
+      <td><a href="../contact.html">Contact</a></td>
+    </tr>
+  </tbody>
+</table>
+<table width="50%" border="1" height="100" align="center" bgcolor="#48F6FF">
+  <tbody>
+    <tr>
+      <td id="table2"><a href="../signup.html">Sign Up</a></td>
+      <td id="table2"><a href="../resourcelink.html">Resource line</a></td>
+      <td id="table2"><a href="../pricelist.html">Price Lists</a></td>
+    </tr>
+  </tbody>
+</table>
+<hr align="center" color="#F4292C">
+
+</hr>
+<hr align="center" color="#FF282C">
+</hr>
+
+<body id="container">
+<!-- TemplateBeginEditable name="EditRegion2" --><p>
+
+</p><!-- TemplateEndEditable -->
+
+</body>
+<div id="footer">
+<p>our Phone is 07 4771 1234</p>
+<p>fax: 07-4771 1235</p>
+<p>address: 4 Stanton Avenue, Hulkstwon</p>
+ <p>cossieplay@ gmail.com.</p>
+</div>
+</html>
